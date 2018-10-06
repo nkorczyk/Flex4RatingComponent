@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+	FXG-Icon. Andreas Andy Hulstkamp
+	AH. 2009. Flex 4 beta.
+-->
+<s:Group horizontalCenter="0" verticalCenter="0" width="25" height="25" xmlns:ai="http://ns.adobe.com/ai/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:lib="Haupt_library.*" xmlns:fc="http://ns.adobe.com/thermo/2009" xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:s="library://ns.adobe.com/flex/spark">
+		<s:Path  x="5" winding="nonZero" ai:knockout="0" data="M 9.404 0.01 C 9.051 8.355 -1.506 9.232 3.065 16.324 C 1.835 17.4 0.006 19.866 0.006 25.01 L 1.886 25.01 C 1.886 20.554 3.357 18.569 4.244 17.776 C 18.309 18.361 13.558 4.163 9.404 0.01 Z" >
+			<s:fill>
+				<s:LinearGradient x="6.82861" y="0.00683594" scaleX="25" rotation="90">
+					<s:GradientEntry color="0xfbfbfb" ratio="0"/>
+					<s:GradientEntry color="0xdcdcdc" ratio="0.5"/>
+					<s:GradientEntry color="0xcccccc" ratio="0.5"/>
+					<s:GradientEntry color="0x909090" ratio="1"/>
+				</s:LinearGradient>
+			</s:fill>
+			<s:stroke>
+				<s:SolidColorStroke color="0xd8d8d8" caps="none" weight="1" joints="miter" miterLimit="4"/>
+			</s:stroke>
+		</s:Path>
+</s:Group>

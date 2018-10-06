@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+	FXG-Icon. Andreas Andy Hulstkamp
+	AH. 2009. Flex 4 beta.
+-->
+<s:Group horizontalCenter="0" verticalCenter="0" width="25" height="25" xmlns:ai="http://ns.adobe.com/ai/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:lib="Haupt_library.*" xmlns:fc="http://ns.adobe.com/thermo/2009" xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:s="library://ns.adobe.com/flex/spark">
+			<s:Path x="7" winding="nonZero" ai:knockout="0" data="M 4.658 25.027 L 4.658 21.952 C 2.892 21.921 1.095 21.373 0.03 20.611 L 0.761 18.571 C 1.826 19.303 3.409 19.881 5.084 19.881 C 7.277 19.881 8.739 18.633 8.739 16.897 C 8.739 15.221 7.551 14.187 5.298 13.273 C 2.192 12.055 0.273 10.625 0.273 7.974 C 0.273 5.447 2.07 3.529 4.841 3.072 L 4.841 0.027 L 6.759 0.027 L 6.759 2.98 C 8.586 3.042 9.835 3.529 10.718 4.047 L 9.956 6.056 C 9.317 5.691 8.069 4.991 6.12 4.991 C 3.775 4.991 2.892 6.391 2.892 7.639 C 2.892 9.193 4.018 9.985 6.668 11.111 C 9.804 12.39 11.387 13.943 11.387 16.653 C 11.387 19.089 9.713 21.343 6.576 21.861 L 6.576 25.027 L 4.658 25.027 Z" >
+				<s:fill>
+					<s:LinearGradient x="5.69531" y="0.0136719" scaleX="25" rotation="90">
+						<s:GradientEntry color="0xfbfbfb" ratio="0"/>
+						<s:GradientEntry color="0xdcdcdc" ratio="0.5"/>
+						<s:GradientEntry color="0xcccccc" ratio="0.5"/>
+						<s:GradientEntry color="0x909090" ratio="1"/>
+					</s:LinearGradient>
+				</s:fill>
+				<s:stroke>
+					<s:SolidColorStroke color="0xd8d8d8" caps="none" weight="1" joints="miter" miterLimit="4"/>
+				</s:stroke>
+			</s:Path>
+</s:Group>

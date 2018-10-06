@@ -1,0 +1,55 @@
+@namespace ah "*";
+@namespace mx "library://ns.adobe.com/flex/halo";
+@namespace s "library://ns.adobe.com/flex/spark";
+
+s|Label {
+	fontSize: "14";
+	color: "0xa0a0a0";
+}
+	
+ah|AHPopUpRatingComponent {
+	skinClass: ClassReference('AHPopUpRatingComponentSkin');
+	passiveIconColor: "0x808080";
+	activeIconColor: "0xc0c0c0";
+	baseColor: "0xb0b0b0";
+}
+
+ah|AHPopUpRatingComponent.medicareRating {
+	ratingIcon: ClassReference('myLibrary.HealthCross');
+	activeIconColor: "0xCAEAFF";
+}
+	
+ah|AHPopUpRatingComponent.environmentRating {
+	ratingIcon: ClassReference('myLibrary.Leaf');
+	activeIconColor: "0x7EA80C";
+}
+
+ah|AHPopUpRatingComponent.economyRating {
+	ratingIcon: ClassReference('myLibrary.Money');
+	activeIconColor: "0xFFDB29";
+}
+
+ah|AHPopUpRatingComponent.safetyRating {
+	ratingIcon: ClassReference('myLibrary.StarSign');
+	activeIconColor: "0x4AABED";
+}
+
+ah|AHPopUpRatingComponent.transportationRating {
+	ratingIcon: ClassReference('myLibrary.Transportation');
+	activeIconColor: "0x0075B2";
+}
+
+ah|AHPopUpRatingComponent.cultureRating {
+	ratingIcon: ClassReference('myLibrary.Culture');
+	activeIconColor: "0xD67F16";
+}
+
+ah|AHPopUpRatingComponent.educationRating {
+	ratingIcon: ClassReference('myLibrary.Education');
+	activeIconColor: "0xED1C24";
+}
+
+ah|AHPopUpRatingComponent.administrationRating {
+	ratingIcon: ClassReference('myLibrary.Administration');
+	activeIconColor: "0x766E65";
+}
